@@ -1,0 +1,1 @@
+# NickCoin2
