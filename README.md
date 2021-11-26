@@ -1,1 +1,1 @@
-# NickCoin2.0
+# NickCoin2
