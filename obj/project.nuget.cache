@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uTKm6hENzJWnhlxall36R76ewfHAVjduPAwteOpCV8R/512yJhINvviJL2cXvoRSMOdPuq6MPpeZmR4y4ZM44A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lygia Brito\\source\\repos\\NickCoin2.0\\NickCoin2.0\\NickCoin2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lygia Brito\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
